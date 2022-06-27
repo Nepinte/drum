@@ -1,2 +1,1 @@
-# drum
-This is drum app to play music play drum as you play
+# drum = https://nepinte.github.io/drum/
